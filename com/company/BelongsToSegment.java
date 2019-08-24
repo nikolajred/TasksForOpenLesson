@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-
+/* Given a sequence of natural numbers a 1, a 2, ..., and n. Indicate those elements of it that belong to the segment [c, d] */
 public class BelongsToSegment {
     public static int bounderyC;
     public static int bounderyD;
