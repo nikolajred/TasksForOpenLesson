@@ -10,14 +10,10 @@ private static int elementsOfArray;
     }
 
     public static void setElementsOfArray(int elementsOfArray) {
-        if(elementsOfArray >= 0) {
             SumElementsMultiplicityK.elementsOfArray = elementsOfArray;
-        }else{
-            System.out.println("your number isn't integer or < 0");
-        }
     }
 
-    private static int sumElementsMultiplicityK;
+    public static int sumElementsMultiplicityK;
     public static void main(String[] args) {
         Scanner scn = new  Scanner(System.in);
         System.out.println("Input number of elements of array:");
