@@ -1,7 +1,9 @@
 package com.company;
 
 import java.util.Scanner;
-
+/* The variables a and b contain the positive lengths of
+the legs of the right triangle. Calculate and display the area of ​​the triangle and its perimeter
+ */
 public class AreaOfRightTriangle {
     public static int cathetA;
     public static int cathetB;
