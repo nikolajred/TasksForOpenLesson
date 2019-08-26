@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-
+/* Array A is given. Cyclically shift the elements of the array by K elements to the right (left).*/
 public class ArrayShift {
     public static int numberOfElements;
     public static int shiftAtLeft;
